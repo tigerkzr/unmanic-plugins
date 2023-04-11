@@ -1,0 +1,15 @@
+{
+    "author": "",
+    "compatibility": [
+        2
+    ],
+    "description": "",
+    "icon": "",
+    "id": "reorder_audio_streams_by_channel_count",
+    "name": "Re-order audio streams by channel count",
+    "priorities": {
+        "on_worker_process": 0
+    },
+    "tags": "",
+    "version": "0.0.1"
+}
