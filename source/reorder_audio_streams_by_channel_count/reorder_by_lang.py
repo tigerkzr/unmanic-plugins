@@ -24,10 +24,10 @@ import os
 
 from unmanic.libs.unplugins.settings import PluginSettings
 
-from reorder_audio_streams_by_language.lib.ffmpeg import StreamMapper, Probe, Parser
+from reorder_audio_streams_by_channel_count.lib.ffmpeg import StreamMapper, Probe, Parser
 
 # Configure plugin logger
-logger = logging.getLogger("Unmanic.Plugin.reorder_audio_streams_by_language")
+logger = logging.getLogger("Unmanic.Plugin.reorder_audio_streams_by_channel_count")
 
 
 class Settings(PluginSettings):
