@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-
 """
     Written by:               TigerKZR <tigerkzr@adhdtiger.net>
     Date:                     11 April 2023, (20:00)
@@ -20,7 +19,6 @@
         If not, see <https://www.gnu.org/licenses/>.
 
 """
-
 import logging
 
 from unmanic.libs.unplugins.settings import PluginSettings

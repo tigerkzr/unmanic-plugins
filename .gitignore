@@ -36,3 +36,4 @@ template/
 # Plugin site-packages
 source/**/site-packages/**
 .vscode
+*.code-workspace
